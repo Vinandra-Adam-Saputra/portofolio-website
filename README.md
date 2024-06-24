@@ -36,7 +36,7 @@ The website includes the following main sections:
 ## Installation and Setup
 
 1. Clone the repository
-   git clone https://github.com/Vinandra-Adam-Saputra/portfolio-website.git
+  - git clone https://github.com/Vinandra-Adam-Saputra/portfolio-website.git
 2. Set up a local server environment (e.g., XAMPP, WAMP, or MAMP)
 3. Import the provided SQL file to set up the database structure
 4. Place the project files in your server's web directory
