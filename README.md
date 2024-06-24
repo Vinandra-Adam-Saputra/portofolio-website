@@ -36,7 +36,7 @@ The website includes the following main sections:
 ## Installation and Setup
 
 1. Clone the repository
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Vinandra-Adam-Saputra/portfolio-website.git
 2. Set up a local server environment (e.g., XAMPP, WAMP, or MAMP)
 3. Import the provided SQL file to set up the database structure
 4. Place the project files in your server's web directory
@@ -67,9 +67,9 @@ While this is a personal portfolio project, suggestions for improvements are wel
 This project is open source and available under the MIT License.
 
 ## Contact
-Email : adamvinandra767@gmail.com
-Instagram : @vinandradam
-Project Link: (https://github.com/Vinandra-Adam-Saputra/portofolio-website.git)
+- Email : adamvinandra767@gmail.com
+- Instagram : @vinandradam
+- Project Link: (https://github.com/Vinandra-Adam-Saputra/portofolio-website.git)
 
 ## Acknowledgements
 
