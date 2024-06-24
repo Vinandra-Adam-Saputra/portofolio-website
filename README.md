@@ -64,7 +64,7 @@ The website includes the following main sections:
 While this is a personal portfolio project, suggestions for improvements are welcome. Please open an issue to discuss proposed changes.
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 - Email : adamvinandra767@gmail.com
