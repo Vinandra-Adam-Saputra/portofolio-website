@@ -68,7 +68,6 @@ This project is open source and available under the MIT License. See the [LICENS
 
 ## Contact
 - Email : adamvinandra767@gmail.com
-- Instagram : @vinandradam
 - Project Link: (https://github.com/Vinandra-Adam-Saputra/portofolio-website.git)
 
 ## Acknowledgements
